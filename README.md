@@ -21,11 +21,9 @@ Each folder represents a separate project with its own goal and implementation.
 
 ## Project list
 
-> Add each project here with a short description:
-
-- **Project Name 1** – One-line description of what it does.
-- **Project Name 2** – One-line description of what it does.
-- **Project Name 3** – One-line description of what it does.
+- **Machine Learning Project** – Regression project using the California Housing dataset. Repository: https://github.com/yuvalgeta/machine-learning-project
+- **Secure Coding Project** – Secure coding project focused on software security practices. Repository: https://github.com/Dannyf275/SecureCodingProject
+- **Autonomous-Vehicles** – Python | Computer Vision | Autonomous Systems. Repository: https://github.com/yuvalgeta/Autonomous-Vehicles
 
 ## How to use
 
